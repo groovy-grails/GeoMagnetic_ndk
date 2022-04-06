@@ -1,0 +1,23 @@
+                    Executable : E:\Android\Sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HE:\sunjhui\workspace\Android_5.0.2\ndk001\app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=E:\Android\Sdk\ndk-bundle
+-DCMAKE_ANDROID_NDK=E:\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=E:\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\sunjhui\workspace\Android_5.0.2\ndk001\app\build\intermediates\cxx\Debug\6y2j715g\obj\x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\sunjhui\workspace\Android_5.0.2\ndk001\app\build\intermediates\cxx\Debug\6y2j715g\obj\x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-BE:\sunjhui\workspace\Android_5.0.2\ndk001\app\.cxx\Debug\6y2j715g\x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

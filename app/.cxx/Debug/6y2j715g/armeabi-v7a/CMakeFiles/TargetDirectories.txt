@@ -1,0 +1,4 @@
+E:/sunjhui/workspace/Android_5.0.2/ndk001/app/.cxx/Debug/6y2j715g/armeabi-v7a/CMakeFiles/C_Lib.dir
+E:/sunjhui/workspace/Android_5.0.2/ndk001/app/.cxx/Debug/6y2j715g/armeabi-v7a/CMakeFiles/native-lib.dir
+E:/sunjhui/workspace/Android_5.0.2/ndk001/app/.cxx/Debug/6y2j715g/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/sunjhui/workspace/Android_5.0.2/ndk001/app/.cxx/Debug/6y2j715g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

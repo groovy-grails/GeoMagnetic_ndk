@@ -1,0 +1,14 @@
+# ninja log v5
+3559	9531	670674500	CMakeFiles/native-lib.dir/src/main/cpp/GeomagnetismLibrary.c.o	b7fe96e976b0c9a3
+40	20847	670674511	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8359451394c7e29d
+20847	25912	670674516	../../../../build/intermediates/cxx/Debug/6y2j715g/obj/arm64-v8a/libnative-lib.so	92c2c9203025c9a
+26	1831	670915338	CMakeFiles/C_Lib.dir/src/main/cpp/GeomagnetismLibrary.c.o	1bcb809f6f230852
+1831	5806	670915340	libC_Lib.a	ea99556686c8e980
+1078	6159	670915342	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8359451394c7e29d
+6159	8832	670915345	../../../../build/intermediates/cxx/Debug/6y2j715g/obj/arm64-v8a/libnative-lib.so	5d6247fbe53c1fac
+3	5509	670915511	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8359451394c7e29d
+5509	6569	670915512	../../../../build/intermediates/cxx/Debug/6y2j715g/obj/arm64-v8a/libnative-lib.so	5d6247fbe53c1fac
+2	6482	670916985	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8359451394c7e29d
+6482	9441	670916988	../../../../build/intermediates/cxx/Debug/6y2j715g/obj/arm64-v8a/libnative-lib.so	5d6247fbe53c1fac
+2	7064	670917838	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8359451394c7e29d
+7065	9042	670917840	../../../../build/intermediates/cxx/Debug/6y2j715g/obj/arm64-v8a/libnative-lib.so	5d6247fbe53c1fac

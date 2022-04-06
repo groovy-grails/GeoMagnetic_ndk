@@ -1,0 +1,7 @@
+Executable : E:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+E:\sunjhui\workspace\Android_5.0.2\ndk001\app\.cxx\Debug\6y2j715g\arm64-v8a
+native-lib
+jvmArgs : 
+
